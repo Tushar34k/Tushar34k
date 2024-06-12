@@ -44,8 +44,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> 
   </a>
 </p>
-
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tusharkokane366&show_icons=true&locale=en" alt="tusharkokane366" />
-</p>
