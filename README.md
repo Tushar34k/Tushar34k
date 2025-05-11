@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tushkokane&show_icons=true&theme=radical" alt="Tushar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tushkokane&show_icons=true&theme=radical" />
 </p>
