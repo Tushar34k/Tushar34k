@@ -15,7 +15,7 @@
   <a href="mailto:tusharkokane366@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/tushkokane/" target="_blank">
+  <a href="https://leetcode.com/u/tushark123/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
