@@ -1,69 +1,67 @@
-<h1 align="center">Hi 👋, I'm Tushar Kokane</h1>
+<h1 align="center">Hi 👋, I'm Tushar </h1>
 <h3 align="center">🚀 Full Stack Engineer | Backend Specialist | AI Enthusiast</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+</p>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 Currently working on a **Finance Tracking System powered by AI (RAG)**  
-- 🌱 Deepening expertise in **Spring Boot, React, and AI-powered applications**  
-- 🤖 Skilled in **Generative AI concepts** and integrating **RAG (Retrieval-Augmented Generation) systems** into real-world projects  
-- 🧪 Strong believer in **Test-Driven Development (TDD)** for building reliable and scalable applications  
-- 👯 Open to collaborating on **AI-driven Full Stack & Backend Projects**  
-- 💬 Skilled in **Java, Spring Boot, MySQL** with working knowledge of **React, HTML, CSS, JavaScript**  
-- 🧠 Active on [LeetCode](https://leetcode.com/tushkokane/) for problem solving  
+## 👨‍💻 About Me
+- 🔭 Building a **Finance Tracking System powered by AI (RAG)**  
+- 🌱 Exploring **Spring Boot, React, FastAPI, and AI-driven applications**  
+- 🤖 Passionate about **Generative AI, RAG, Embeddings & Attention Models**  
+- 🧪 Advocate of **Test-Driven Development (TDD)** for scalable apps  
+- 👯 Open to collaboration on **AI-driven Full Stack & Backend Projects**  
+- 💬 Skilled in **Java, Spring Boot, MySQL, React, JavaScript, HTML, CSS**  
+- 🧠 Active problem solver on [LeetCode](https://leetcode.com/tushkokane/)  
 - 📫 Reach me at **tusharkokane366@gmail.com**
 
 ---
 
-### 🌐 Connect with me:
-<p align="left">
-  <a href="mailto:tusharkokane366@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/tushark123/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🛠️ Tech Stack
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
+## 🌐 Connect with Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tushar34K&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar34K&theme=radical" />
+  <a href="mailto:tusharkokane366@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://leetcode.com/u/tushark123/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://www.instagram.com/tushar_kokane_1">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
+  </a>
 </p>
 
 ---
 
-### ⚡ Fun Fact
-💡 I’m fascinated by how **Generative AI** works and love building projects where **AI meets software engineering**.  
+## 🛠️ Tech Stack
+<p align="center">
+  <!-- Core -->
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,react,js,html,css,git,github,vscode,python&theme=dark" />
+</p>
+
+<p align="center">
+  <!-- Extra AI + Backend -->
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embeddings-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logo=ai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Attention%20Models-FF1493?style=for-the-badge&logo=keras&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tushar34K&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar34K&theme=radical" height="180"/>
+</p>
+
+---
+
+## ⚡ Fun Fact
+💡 I’m fascinated by how **Generative AI** works and love building projects where **AI meets Software Engineering**.
+
+---
